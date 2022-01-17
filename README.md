@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-/Users/rahmatherron/Downloads/ezgif.com-gif-maker.gif
+[](https://i.imgur.com/kDPIa2R.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
